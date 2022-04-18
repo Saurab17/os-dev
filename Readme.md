@@ -11,3 +11,4 @@
 
 ## Table of Contents
 1. [Chapter 2](./chapter2/simple_boot_readme.md)
+2. [Chapter 3](./chapter3/simple_boot_readme_asm.md)
