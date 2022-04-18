@@ -5,7 +5,7 @@ This example shows how to generate a simple boot sector with assembly instructio
 
 Run the below command to generate the boot sector binary to run on `x86_64` machines.
 ```
-$ nasm boot sect.asm -f bin -o boot sect.bin
+$ nasm boot_sect.asm -f bin -o boot_sect.bin
 ```
 + Option `-f bin`: option to instruct `nasm` to produce raw machine code
 
